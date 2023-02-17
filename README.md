@@ -83,6 +83,6 @@ Applications:
 
 ### Summary
 
-
+We observe that the Easy Ensemble AdaBoost Classifier is the best model to choose with its 91% balanced accuracy. Easy Ensemble AdaBoost Classifier also had the highest recall score of 94%. This makes it the best machine learning model.
 
 
