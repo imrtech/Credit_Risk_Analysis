@@ -47,7 +47,7 @@ Applications:
 ![undersampling classification report](resources/images/undersamplingsampling.png)
 
 - The balanced accuracy score is 66%.
-- The high_risk precision is about 1% with 69% sensitivity which makes a F1 score of 2%.
+- The high_risk precision is about 1% with 69% sensitivity which makes a F1 score of 1%.
 - The precision is almost 100% with a sensitivity of 40%.
 
 
@@ -77,7 +77,7 @@ Applications:
 ![easy ensemble classification report](resources/images/easyensembleclassificationreport.png)
 
 - The balanced accuracy score is 91%.
-- The high_risk precision is about 9% with 89% sensitivity which makes a F1 score of 6%.
+- The high_risk precision is about 9% with 89% sensitivity which makes a F1 score of 16%.
 - The precision is almost 100% with a sensitivity of 94%.
 
 
